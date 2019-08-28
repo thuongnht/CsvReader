@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f8f6fbb-8f93-4d76-83a4-6f1f15b27eee" name="Default" comment="" />
+    <list default="true" id="7f8f6fbb-8f93-4d76-83a4-6f1f15b27eee" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/azdirect/CsvSpliterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huuthuong/CsvSpliterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/azdirect/FixedBatchSpliteratorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huuthuong/FixedBatchSpliteratorBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/azdirect/TestCsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/huuthuong/TestCsv.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="492">
-              <caret line="73" column="67" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
+              <caret line="73" column="68" selection-start-line="73" selection-start-column="68" selection-end-line="73" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -43,8 +48,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestCsv.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/azdirect/TestCsv.java">
+      <file leaf-file-name="TestCsv.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/huuthuong/TestCsv.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
@@ -88,6 +93,9 @@
       <find>readN</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -104,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/azdirect/CsvSpliterator.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/azdirect/TestCsv.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huuthuong/TestCsv.java" />
       </list>
     </option>
   </component>
@@ -136,6 +145,11 @@
             <path>
               <item name="TestCsv" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestCsv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestCsv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestCsv" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -157,7 +171,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="azdirect" type="462c0819:PsiDirectoryNode" />
+              <item name="huuthuong" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -171,6 +185,11 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.34319526" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Documents\Talend\TestCsv\lib" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,12 +208,12 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration name="TestCsv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.azdirect.TestCsv" />
+      <option name="MAIN_CLASS_NAME" value="com.huuthuong.TestCsv" />
       <module name="TestCsv" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.azdirect.*" />
+          <option name="PATTERN" value="com.huuthuong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,12 +307,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32897604" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49782136" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49782136" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" sideWeight="0.50217867" side_tool="true" weight="0.25266525" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -349,7 +368,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/azdirect/TestCsv.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huuthuong/TestCsv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
@@ -366,7 +385,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/azdirect/FixedBatchSpliteratorBase.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huuthuong/FixedBatchSpliteratorBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
@@ -395,7 +414,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/azdirect/CustomCsvReader.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/azdirect/CsvSpliterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huuthuong/CsvSpliterator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
@@ -409,20 +428,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="73" column="67" selection-start-line="73" selection-start-column="67" selection-end-line="73" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/azdirect/TestCsv.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huuthuong/TestCsv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="73" column="68" selection-start-line="73" selection-start-column="68" selection-end-line="73" selection-end-column="68" />
         </state>
       </provider>
     </entry>

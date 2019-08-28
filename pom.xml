@@ -71,7 +71,7 @@
                             <shadedArtifactAttached>true</shadedArtifactAttached>
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>com.azdirect.TestCsv</mainClass>
+                                    <mainClass>com.huuthuong.TestCsv</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
